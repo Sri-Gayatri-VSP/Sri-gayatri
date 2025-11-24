@@ -225,4 +225,14 @@ h4{background-color: #2f05ae;
   padding: 6px;
   width: fit-content;
   -webkit-text-stroke: 0px #090402;
+
   }
+a { color: rgb(250, 249, 249);
+     font-size: 20px;
+     text-align: center; 
+     line-height: 1.1;
+     -webkit-text-stroke:0px;
+     text-decoration: none;
+    background-color: #f74905;
+    padding: 10px 15px;
+    border: double 4px #090402;}
